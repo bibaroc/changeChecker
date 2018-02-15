@@ -1,0 +1,25 @@
+{
+  "name": "changechecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibaroc/changeChecker.git"
+  },
+  "author": "Vladyslav Sulimovskyy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bibaroc/changeChecker/issues"
+  },
+  "homepage": "https://github.com/bibaroc/changeChecker#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.1",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  }
+}
